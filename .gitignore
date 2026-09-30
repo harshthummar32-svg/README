@@ -1,0 +1,6 @@
+# Local Claude Code settings and tool state
+.claude/settings.local.json
+.claude/.headroom_*
+
+# OS files
+.DS_Store
